@@ -1,1 +1,2 @@
 # haruspices.github.io
+nice
