@@ -131,6 +131,9 @@ body {
        -moz-font-smoothing: antialiased; 
     text-rendering: optimizeLegibility;
 }
+img {
+image-rendering: pixelated;
+}
 
 a:active,
 a:focus {
